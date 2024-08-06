@@ -1,5 +1,4 @@
-# Priors, population sizes, and power in
-genome-wide hypothesis tests
+# Priors, population sizes, and power in genome-wide hypothesis tests
 
 Genome-wide tests always carry a high multiple testing burden. This burden can be overcome by enrolling larger cohorts, or by using prior biological knowledge to favor some hypotheses over others. However, there ’s no quantitative comparison between these 2 methods, especially when the rapid advance of sequencing technology has enabled a much larger cohort size.
 
